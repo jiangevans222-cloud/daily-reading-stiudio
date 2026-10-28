@@ -1,0 +1,233 @@
+{
+  "status": "approved",
+  "lesson": {
+    "id": "library-learning",
+    "day": 2,
+    "date": "2026-10-29",
+    "title": "A Library Is More Than Its Shelves",
+    "subtitle": "让图书馆成为彼此学习的地方",
+    "topic": "教育与社区",
+    "level": "六级进阶 · 考研衔接",
+    "minutes": 30,
+    "source": "原创模拟阅读 · 非真题",
+    "paragraphs": [
+      "When a small public library rearranges its reading room, the change may appear to be a matter of furniture. A table moves closer to a window, a shelf becomes easier to reach, and several chairs are placed in a circle. Yet these simple decisions can express a larger idea about what a library is for. Is it mainly a storehouse from which individuals borrow books, or can it also be a place where people learn from one another?",
+      "The two purposes need not compete. Quiet reading remains valuable, particularly for people who cannot find a peaceful space at home. At the same time, a visitor who has learned to repair a bicycle or write a job application may possess knowledge that others need. Books make experience available beyond the life of their authors; conversation can make local experience available beyond the circle of those who already share it. Both can widen access to learning.",
+      "Consider an imaginary library that invites residents to explain a practical skill on Saturday mornings. Organizers might be tempted to measure success simply by counting the audience. A crowded session would then seem better than a small one. But attendance alone reveals little about participation. Ten people who feel able to ask questions may gain more than fifty people who listen silently because the speaker assumes knowledge they do not have. An open door does not automatically create an open conversation.",
+      "Design therefore matters. A useful session could begin with a question rather than a long lecture. Participants might work in pairs before speaking to the whole group, giving less confident visitors time to develop an idea. Clear signs could explain that no previous experience is required. None of these arrangements guarantees that everyone will feel comfortable. They do, however, reduce some of the unnecessary uncertainty that prevents a willing beginner from taking part.",
+      "There are limits to what such programs should attempt. A discussion of household expenses is not a substitute for professional financial advice, and a volunteer cannot be expected to solve every participant's difficulty. Nor should social activities consume every quiet corner of the building. The challenge is to offer different forms of learning without suggesting that one form is superior. A successful library can protect silence while also making room for useful conversation.",
+      "Viewed this way, a library's value cannot be expressed by a single number. Borrowing figures and attendance can help staff notice patterns, but they cannot fully describe whether people feel welcome or leave better able to act. Furniture is only a starting point. The deeper task is to arrange opportunities so that more people can both receive knowledge and contribute it. That task requires listening as well as counting."
+    ],
+    "translation": [
+      "当一家小型公共图书馆重新布置阅览室时，这种改变看起来或许只是家具摆放的问题。一张桌子移到更靠近窗户的地方，一个书架变得更容易够到，几把椅子围成一圈。然而，这些简单的决定可能表达了一个更大的理念：图书馆的用途是什么？它主要是个人借阅图书的仓库，还是也可以成为人们相互学习的地方？",
+      "这两种用途不必相互竞争。安静阅读依然有价值，对那些在家中找不到安静空间的人尤其如此。同时，学会修自行车或写求职申请的访客可能拥有他人需要的知识。书籍让经验在作者的一生之外继续被获取；交谈则能让当地经验超出原本共享它的圈子。两者都能拓宽学习机会。",
+      "设想一家虚构的图书馆，邀请居民在周六上午讲解一项实用技能。组织者或许倾向于仅通过统计观众人数来衡量成功。这样一来，拥挤的活动似乎就比小型活动更好。但仅凭出席人数，几乎无法了解参与情况。十位觉得能够提问的人，可能比五十位沉默倾听的人收获更多；后者可能因为讲者假定他们具备实际上并不具备的知识而沉默。敞开大门并不会自动带来开放的交流。",
+      "因此，活动设计很重要。有益的活动可以从一个问题开始，而不是一段冗长的讲授。参与者可以先两人讨论，再向全体发言，让信心不足的访客有时间形成想法。清晰的标识可以说明不需要以往经验。这些安排都不能保证人人舒适，但确实能减少一些不必要的不确定性，避免有意愿的初学者因此无法参与。",
+      "这类项目应当尝试的事情也有界限。讨论家庭开支不能代替专业的财务建议，也不能期待志愿者解决每位参与者的所有困难。社交活动也不应占据建筑中每个安静角落。挑战在于提供不同的学习方式，同时不暗示某种方式更优越。成功的图书馆可以保护安静，也能为有益的交流留出空间。",
+      "这样看来，图书馆的价值不能用单一数字表达。借阅和出席数字可以帮助工作人员发现规律，却不能完整描述人们是否感到受欢迎，或离开时是否更有能力行动。家具只是起点。更深层的任务是安排机会，让更多人既能获得知识，也能贡献知识。这项任务既需要统计，也需要倾听。"
+    ],
+    "questions": [
+      {
+        "stem": "What is the main purpose of the passage?",
+        "options": [
+          "To argue that libraries should stop lending books.",
+          "To explain why every library needs a larger building.",
+          "To explore how libraries can support different forms of learning.",
+          "To show that attendance is the only useful measure of success."
+        ],
+        "answer": 2,
+        "explanations": [
+          "A错误：第二段明确保留安静阅读的价值，没有停止借阅的建议。",
+          "B错误：文章讨论设计与机会，而非扩建。",
+          "C正确：从阅读和交流两种用途出发，讨论设计、界限及评价。",
+          "D错误：末段明确否定用单一数字完整表达价值。"
+        ],
+        "evidence": "The challenge is to offer different forms of learning without suggesting that one form is superior.",
+        "skill": "主旨"
+      },
+      {
+        "stem": "How does paragraph 2 relate books to conversation?",
+        "options": [
+          "It presents both as ways of sharing experience more widely.",
+          "It claims that local experience is always more reliable.",
+          "It suggests that conversation makes authors unnecessary.",
+          "It describes the two as competing for all available resources."
+        ],
+        "answer": 0,
+        "explanations": [
+          "A正确：书籍跨越作者生命传播经验，交谈跨越现有圈子传播经验。",
+          "B错误：没有比较经验的可靠性，更无 always。",
+          "C错误：传播方式互补不等于作者不必要。",
+          "D错误：首句指出两种用途不必竞争。"
+        ],
+        "evidence": "Both can widen access to learning.",
+        "skill": "段落关系"
+      },
+      {
+        "stem": "Why does the author compare ten participants with fifty listeners?",
+        "options": [
+          "To recommend limiting every event to ten visitors.",
+          "To prove that most speakers lack useful knowledge.",
+          "To suggest that silent listeners never learn anything.",
+          "To show that audience size may not reflect meaningful participation."
+        ],
+        "answer": 3,
+        "explanations": [
+          "A错误：人数为假设比较，没有规定上限。",
+          "B错误：问题是讲者的前提假设，并非普遍缺乏知识。",
+          "C错误：原文是 may gain more，不是沉默者毫无收获。",
+          "D正确：用假设说明人多并不自动代表参与充分。"
+        ],
+        "evidence": "But attendance alone reveals little about participation.",
+        "skill": "例证作用"
+      },
+      {
+        "stem": "What is the intended benefit of working in pairs before addressing the group?",
+        "options": [
+          "It removes the need for clear signs.",
+          "It gives less confident visitors time to form an idea.",
+          "It guarantees that everyone will feel comfortable.",
+          "It turns beginners into professional advisers."
+        ],
+        "answer": 1,
+        "explanations": [
+          "A错误：标识仍是另一项独立措施。",
+          "B正确：第四段明确说两人讨论可给信心不足者准备时间。",
+          "C错误：作者明确否认保证人人舒适。",
+          "D错误：没有把初学者变成专业人士的说法。"
+        ],
+        "evidence": "Participants might work in pairs before speaking to the whole group, giving less confident visitors time to develop an idea.",
+        "skill": "细节"
+      },
+      {
+        "stem": "What can be inferred about numerical measures from the final paragraph?",
+        "options": [
+          "They are useful but should be supplemented by listening to people.",
+          "They should be abandoned because they never reveal patterns.",
+          "They fully explain whether each visitor feels welcome.",
+          "They matter only when a library changes its furniture."
+        ],
+        "answer": 0,
+        "explanations": [
+          "A正确：数字有助发现规律，但不足以完整评价体验，所以还要倾听。",
+          "B错误：原文承认数字有用，没有要求抛弃。",
+          "C错误：cannot fully describe 与该项相反。",
+          "D错误：没有“仅在换家具时”的限制。"
+        ],
+        "evidence": "That task requires listening as well as counting.",
+        "skill": "推断"
+      }
+    ],
+    "vocabulary": [
+      [
+        "storehouse",
+        "/ˈstɔːhaʊs/",
+        "n. 仓库；知识宝库",
+        "The archive is a storehouse of local stories.",
+        "这份档案是当地故事的宝库。"
+      ],
+      [
+        "possess",
+        "/pəˈzes/",
+        "v. 拥有",
+        "Each visitor may possess a useful skill.",
+        "每位访客都可能拥有有用的技能。"
+      ],
+      [
+        "attendance",
+        "/əˈtendəns/",
+        "n. 出席；出席人数",
+        "Attendance rose after the schedule changed.",
+        "调整时间表后，出席人数增加了。"
+      ],
+      [
+        "participation",
+        "/pɑːˌtɪsɪˈpeɪʃn/",
+        "n. 参与",
+        "Small groups can encourage participation.",
+        "小组可以鼓励参与。"
+      ],
+      [
+        "uncertainty",
+        "/ʌnˈsɜːtnti/",
+        "n. 不确定性",
+        "Clear instructions reduce uncertainty.",
+        "清晰的说明能减少不确定性。"
+      ],
+      [
+        "substitute",
+        "/ˈsʌbstɪtjuːt/",
+        "n. 替代物；v. 代替",
+        "A summary is no substitute for careful reading.",
+        "摘要无法代替仔细阅读。"
+      ],
+      [
+        "superior",
+        "/suːˈpɪəriə(r)/",
+        "adj. 更好的；优越的",
+        "No single method is superior in every situation.",
+        "没有一种方法在所有情境下都更好。"
+      ],
+      [
+        "contribute",
+        "/kənˈtrɪbjuːt/",
+        "v. 贡献；投稿",
+        "Students contribute ideas to the discussion.",
+        "学生们为讨论贡献想法。"
+      ]
+    ],
+    "sentences": [
+      {
+        "text": "Ten people who feel able to ask questions may gain more than fifty people who listen silently because the speaker assumes knowledge they do not have.",
+        "structure": "主干 Ten people may gain more than fifty people。两个 who 从句分别修饰两组人；because 引导原因从句；knowledge 后省略关系代词 that。",
+        "meaning": "十位觉得能够提问的人可能比五十位沉默倾听的人收获更多，后者沉默是因为讲者假定他们拥有实际上并不具备的知识。",
+        "tip": "比较的是收获而非人数价值，may 限定结论强度。"
+      },
+      {
+        "text": "The challenge is to offer different forms of learning without suggesting that one form is superior.",
+        "structure": "主干 The challenge is to offer ...。不定式作表语；without + 动名词，that 引导 suggesting 的宾语从句。",
+        "meaning": "挑战在于提供不同的学习方式，同时不暗示某一种方式更优越。",
+        "tip": "without 表示需要避免的伴随结果。"
+      }
+    ],
+    "expressions": [
+      {
+        "phrase": "not a substitute for …",
+        "meaning": "不能代替……",
+        "example": "Watching a demonstration is not a substitute for practice."
+      },
+      {
+        "phrase": "as well as …",
+        "meaning": "也；以及……",
+        "example": "Good education requires patience as well as knowledge."
+      }
+    ],
+    "review": {
+      "summary": "图书馆既可保护安静阅读，也可组织居民交流。评价价值需要关注参与体验，而不能只数人数。",
+      "structure": [
+        "以家具调整引出图书馆用途。",
+        "说明阅读与交谈都能分享经验。",
+        "用明确的假设案例区分人数与参与。",
+        "给出降低参与门槛的设计建议。",
+        "界定专业能力与空间使用的边界。",
+        "说明数字的用途与不足，回扣机会设计。"
+      ],
+      "logic": [
+        "先提出两种用途，再说明互补。",
+        "用 imaginary 明确活动为假设，避免把它当成实证研究。",
+        "用让步说明活动与数字的局限，得出兼顾不同需求的结论。"
+      ],
+      "traps": [
+        "把 may 改为 guarantees。",
+        "把数字不足以完整说明价值，误读为数字毫无用处。",
+        "忽略第五段对专业建议和安静空间的界限。"
+      ],
+      "takeaway": "例子支持观点，却不等于提供普遍统计结论；注意 may、not fully 等限定。",
+      "selfCheck": [
+        "为什么人数不等于参与？",
+        "两人讨论怎样降低表达门槛？",
+        "作者是否否定借阅数字的价值？"
+      ]
+    }
+  }
+}

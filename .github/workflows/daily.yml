@@ -1,0 +1,57 @@
+name: Daily course
+on:
+  schedule:
+    - cron: '17 22 * * *' # 06:17 Asia/Shanghai next day; GitHub may delay
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: daily-course
+  cancel-in-progress: false
+jobs:
+  publish:
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      COURSE_MODE: ${{ vars.COURSE_MODE || 'queue' }}
+      AUTO_PUBLISH_AI: ${{ vars.AUTO_PUBLISH_AI }}
+      OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+      COURSE_TOPIC: ${{ vars.COURSE_TOPIC }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Prepare daily course (or draft only)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: npm run daily
+      - run: npm run check
+      - run: npm run build
+      - name: Commit checked course
+        if: env.COURSE_MODE != 'draft'
+        run: |
+          git add content/lessons content/queue dist/lessons.js dist/courses.json
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'content: publish daily reading lesson'
+            git push
+          fi
+      # GITHUB_TOKEN pushes do not trigger another Actions workflow.
+      # Always call the hook, even on idempotent reruns, to recover a failed hook.
+      - name: Request Netlify build
+        if: env.COURSE_MODE != 'draft'
+        env:
+          NETLIFY_BUILD_HOOK: ${{ secrets.NETLIFY_BUILD_HOOK }}
+        run: node scripts/hook.mjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: course-draft-and-review
+          path: work/*.json
+          if-no-files-found: ignore
+          retention-days: 14

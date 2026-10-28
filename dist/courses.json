@@ -1,0 +1,281 @@
+{
+  "version": 1,
+  "lessons": [
+    {
+      "id": "day-1",
+      "day": 1,
+      "date": "2026-10-28",
+      "title": "The Hidden Cost of Making Everything Easier",
+      "subtitle": "当一切变得更容易，我们失去了什么？",
+      "topic": "科技与社会",
+      "level": "六级进阶 · 考研衔接",
+      "minutes": 30,
+      "source": "原创模拟阅读 · 非真题",
+      "review": {
+        "summary": "这篇文章讨论的核心是：便利在节省时间与精力的同时，也可能让我们失去练习注意力、学习能力和独立判断的机会。作者承认技术的好处，提倡有意识地保留有价值的努力。",
+        "structure": [
+          "第1段｜从旅行场景引出问题：当手机替我们安排好一切，我们是否还会主动摸索？段末问句是全文的讨论起点。",
+          "第2段｜提出核心区分：某些困难只是负担，另一些困难却能带来学习。消除困难的同时，可能也消除了学习机会。",
+          "第3段｜导航的例子：高效到达不等于真正了解。准确的指引可能让主动关注环境显得没有必要。",
+          "第4段｜推荐系统的例子：根据过去偏好推荐内容，会让选择更省力，但也可能缩小接触陌生观点的范围。",
+          "第5段｜让步与建议：承认技术有用，也承认个体差异；随后提出判断标准——工具是在支持判断，还是在取代判断？",
+          "第6段｜回扣标题：真正的隐性代价是，在未察觉交换时放弃仍然珍视的能力。保留哪些努力，应由人主动决定。"
+        ],
+        "logic": [
+          "看到 Yet、But、However，要检查论述是否转向。文章先肯定便利，再讨论容易被忽略的代价；转折后的内容常承载重点。",
+          "导航与推荐系统是两个平行例子，共同支持“便利可能减少主动参与”的观点。主旨题要找能概括两个例子的选项。",
+          "第5段 None of this means … 是让步和限定：不要把作者的批判读成全面否定技术，也不要忽略不同人的需求。",
+          "结尾 not only … but also … 把评价标准从“省了多少力”扩展到“哪些努力值得保留”，回应开头的问题。"
+        ],
+        "traps": [
+          "以偏概全：把一段中的导航或推荐系统，当成整篇文章唯一的话题。",
+          "绝对化：把 can、may、not every 改写成 always、all、impossible，改变了作者的限定程度。",
+          "偷换概念：把“到达一个地方”当成“了解一个地方”，或把“不必理解”改成“无法理解”。",
+          "过度推断：从“便利有代价”直接推出“应该抛弃技术”。第5段明确排除了这种理解。"
+        ],
+        "takeaway": "今天最值得带走的阅读方法：先判断作者在肯定什么、担忧什么，再找转折、例子和结论之间的关系。复习时尝试不用译文，用中文口述全文逻辑，再用两句英文表达自己的立场。",
+        "selfCheck": [
+          "为什么“准确的导航”仍可能带来代价？",
+          "推荐系统如何让过去的偏好限制未来的体验？",
+          "作者建议保留所有困难吗？请找一句原文支持你的回答。"
+        ]
+      },
+      "paragraphs": [
+        "A few years ago, getting lost in an unfamiliar city was an ordinary part of travel. Today, a phone can guide us to a café, translate its menu, and recommend what to order before we have spoken to anyone. Such tools save time and reduce anxiety. Yet their growing presence raises a question that is easy to overlook: what happens to us when we no longer have to figure things out for ourselves?",
+        "Convenience is usually measured by what it removes: waiting, effort, and uncertainty. These are real benefits, especially for people whose time or physical abilities are limited. But not every form of difficulty is merely an obstacle. Struggling to explain an idea can clarify our thinking; searching for a destination can help us build a mental map. When a service eliminates the struggle, it may also remove an opportunity to learn.",
+        "Consider digital navigation. A driver who follows instructions can reach a destination efficiently without understanding how different streets connect. The problem is not that the device provides inaccurate information, but that accurate guidance can make active attention seem unnecessary. If the battery dies, the traveler may discover that reaching a place and knowing a place are very different achievements.",
+        "A similar trade-off appears in systems that recommend what we read or watch. By predicting our preferences, they make selection almost effortless. However, if we accept each suggestion without reflection, our past choices can quietly become the boundaries of our future experience. An unfamiliar book, initially less appealing than a familiar genre, might challenge a belief that repeated recommendations leave untouched. The easiest choice is not always the most valuable one.",
+        "None of this means we should reject useful technology or romanticize inconvenience. A task that develops one person’s skills may simply exhaust another person. The better question is whether a tool supports our judgment or gradually replaces it. We can use a map and still notice landmarks; we can accept a recommendation and occasionally choose something outside it. Small acts of deliberate effort can preserve our ability to decide.",
+        "The hidden cost of ease, then, is not comfort itself. It is the possibility of surrendering capacities we still value without noticing the exchange. A thoughtful approach to technology asks not only how much effort a tool saves, but also which kinds of effort are worth keeping. Progress should give us more control over our lives, including the freedom to do some things the harder way."
+      ],
+      "translation": [
+        "几年前，在陌生城市迷路还是旅行中的常见经历。如今，手机可以带我们去一家咖啡馆、翻译菜单，甚至在我们还没和任何人说话之前就推荐点什么。这些工具节省时间，也减轻焦虑。然而，它们日益普及也提出了一个容易被忽视的问题：当我们不再需要自己摸索时，我们会发生什么变化？",
+        "便利通常以它消除了什么来衡量：等待、付出和不确定性。这些确实是好处，尤其对时间或身体能力有限的人而言。但并非所有困难都仅仅是障碍。努力解释一个想法可以理清思路；寻找目的地有助于我们建立脑中的地图。当一种服务消除这种费力过程时，它也可能移除一次学习的机会。",
+        "以数字导航为例。跟随指令的司机可以高效到达目的地，却不必理解各条街道如何相连。问题并不在于设备提供的信息不准确，而在于准确的指引可能让主动留意周围显得没有必要。如果电池没电，旅行者可能会发现，到达一个地方和了解一个地方是两种截然不同的成就。",
+        "推荐阅读或观看内容的系统也存在类似的权衡。它们通过预测偏好，让选择几乎毫不费力。然而，如果我们不加思考地接受每条推荐，过去的选择就可能悄悄成为未来体验的边界。一本陌生的书起初可能不如熟悉的类型有吸引力，却可能挑战某个被反复推荐的内容始终未曾触动的信念。最容易的选择未必最有价值。",
+        "这一切并不意味着我们应该拒绝有用的技术，或把不便理想化。能锻炼某个人技能的任务，也可能只会让另一个人精疲力竭。更好的问题是：工具是在支持我们的判断，还是在逐渐取代它？我们可以使用地图，同时留意地标；可以接受推荐，也偶尔选择推荐范围之外的内容。小小的主动付出，可以保留我们做决定的能力。",
+        "因此，便利的隐性代价并不是舒适本身，而是我们可能在没有察觉这场交换的情况下，放弃仍然珍视的能力。审慎对待技术，不仅要问工具省去了多少努力，也要问哪些努力值得保留。进步应该让我们更能掌控生活，包括选择用更费力的方式做某些事情的自由。"
+      ],
+      "questions": [
+        {
+          "stem": "What is the main purpose of the passage?",
+          "options": [
+            "To argue that modern tools should be abandoned.",
+            "To examine how convenience can affect abilities we value.",
+            "To show that travel was safer before digital navigation.",
+            "To explain how recommendation systems are programmed."
+          ],
+          "answer": 1,
+          "explanations": [
+            "过度推断：第5段明确说不应拒绝有用技术。",
+            "正确：全文讨论便利与学习、注意力、自主判断之间的权衡。",
+            "无中生有：文章没有比较旅行安全性。",
+            "偏离主旨：推荐系统只是论证中的一个例子。"
+          ],
+          "evidence": "asks not only how much effort a tool saves, but also which kinds of effort are worth keeping.",
+          "skill": "主旨大意"
+        },
+        {
+          "stem": "According to paragraph 2, some forms of difficulty are valuable because they can _____.",
+          "options": [
+            "make services less expensive",
+            "remove all uncertainty from daily life",
+            "create opportunities for learning",
+            "benefit everyone in exactly the same way"
+          ],
+          "answer": 2,
+          "explanations": [
+            "无中生有：没有讨论服务价格。",
+            "偷换逻辑：困难未必消除不确定性。",
+            "正确：解释想法、寻找地点都可以带来学习。",
+            "绝对化：第5段反而指出困难对不同人的影响不同。"
+          ],
+          "evidence": "it may also remove an opportunity to learn.",
+          "skill": "细节理解"
+        },
+        {
+          "stem": "The navigation example suggests that accurate guidance may _____.",
+          "options": [
+            "reduce a traveler’s motivation to pay active attention",
+            "prevent a driver from ever reaching a destination",
+            "make street connections impossible to understand",
+            "be less useful than inaccurate information"
+          ],
+          "answer": 0,
+          "explanations": [
+            "正确：准确指引会让主动关注环境显得不必要。",
+            "与原文相反：导航可以帮助高效到达。",
+            "绝对化：原文说“不必理解”，不是“无法理解”。",
+            "曲解比较：文章没有肯定不准确信息。"
+          ],
+          "evidence": "accurate guidance can make active attention seem unnecessary.",
+          "skill": "推理判断"
+        },
+        {
+          "stem": "What does “the boundaries of our future experience” imply in paragraph 4?",
+          "options": [
+            "Recommendations always introduce entirely new interests.",
+            "Users lose the legal right to choose unfamiliar books.",
+            "Past choices have no influence on later decisions.",
+            "Repeated recommendations may narrow what we encounter."
+          ],
+          "answer": 3,
+          "explanations": [
+            "与原文相反：系统基于已有偏好推荐。",
+            "无中生有：这里是比喻，不涉及法律权利。",
+            "与原文相反：过去的选择会影响未来体验。",
+            "正确：重复既有偏好，可能缩小接触新事物的范围。"
+          ],
+          "evidence": "our past choices can quietly become the boundaries of our future experience.",
+          "skill": "语义理解"
+        },
+        {
+          "stem": "Which practice would the author most likely support?",
+          "options": [
+            "Accepting every recommendation to save maximum time.",
+            "Using helpful tools while deliberately exercising judgment.",
+            "Avoiding all tasks that require personal effort.",
+            "Keeping every inconvenience regardless of individual needs."
+          ],
+          "answer": 1,
+          "explanations": [
+            "忽略限定：作者提倡反思和偶尔跳出推荐。",
+            "正确：第5段主张使用工具，同时保留主动判断。",
+            "与主旨相反：部分主动努力值得保留。",
+            "绝对化：作者强调个体差异，也反对美化不便。"
+          ],
+          "evidence": "Small acts of deliberate effort can preserve our ability to decide.",
+          "skill": "观点态度"
+        }
+      ],
+      "vocabulary": [
+        [
+          "convenience",
+          "/kənˈviːniəns/",
+          "n. 便利",
+          "Convenience can come at a hidden cost.",
+          "便利可能伴随隐性代价。"
+        ],
+        [
+          "overlook",
+          "/ˌəʊvəˈlʊk/",
+          "v. 忽视",
+          "We often overlook the value of effort.",
+          "我们常常忽视付出的价值。"
+        ],
+        [
+          "uncertainty",
+          "/ʌnˈsɜːtnti/",
+          "n. 不确定性",
+          "Learning involves uncertainty.",
+          "学习包含不确定性。"
+        ],
+        [
+          "obstacle",
+          "/ˈɒbstəkl/",
+          "n. 障碍",
+          "Not every difficulty is an obstacle.",
+          "并非所有困难都是障碍。"
+        ],
+        [
+          "clarify",
+          "/ˈklærəfaɪ/",
+          "v. 阐明；使清楚",
+          "Writing helps clarify our thinking.",
+          "写作有助于理清思路。"
+        ],
+        [
+          "eliminate",
+          "/ɪˈlɪmɪneɪt/",
+          "v. 消除",
+          "The tool eliminates repetitive work.",
+          "这个工具消除了重复劳动。"
+        ],
+        [
+          "trade-off",
+          "/ˈtreɪd ɒf/",
+          "n. 权衡；取舍",
+          "There is a trade-off between speed and depth.",
+          "速度与深度之间存在取舍。"
+        ],
+        [
+          "preference",
+          "/ˈprefrəns/",
+          "n. 偏好",
+          "Our preferences can change over time.",
+          "我们的偏好可能随时间改变。"
+        ],
+        [
+          "reflection",
+          "/rɪˈflekʃn/",
+          "n. 认真思考；反思",
+          "Good decisions require reflection.",
+          "好的决定需要认真思考。"
+        ],
+        [
+          "deliberate",
+          "/dɪˈlɪbərət/",
+          "adj. 有意识的；慎重的",
+          "Make a deliberate effort to explore.",
+          "有意识地努力探索。"
+        ],
+        [
+          "preserve",
+          "/prɪˈzɜːv/",
+          "v. 保留；保护",
+          "We should preserve independent judgment.",
+          "我们应保留独立判断能力。"
+        ],
+        [
+          "surrender",
+          "/səˈrendə(r)/",
+          "v. 放弃；交出",
+          "Do not surrender control without reflection.",
+          "不要未经思考就交出控制权。"
+        ]
+      ],
+      "sentences": [
+        {
+          "text": "The problem is not that the device provides inaccurate information, but that accurate guidance can make active attention seem unnecessary.",
+          "structure": "主干：The problem is not A, but B。两个 that 引导表语从句；B 中 make + 宾语 active attention + 宾补 seem unnecessary。",
+          "meaning": "问题并不在于设备提供的信息不准确，而在于准确的指引可能让主动留意周围显得没有必要。",
+          "tip": "not … but … 纠正读者的预期，强调真正原因。读题时重点抓 but 后的信息。"
+        },
+        {
+          "text": "An unfamiliar book, initially less appealing than a familiar genre, might challenge a belief that repeated recommendations leave untouched.",
+          "structure": "主干：An unfamiliar book might challenge a belief。逗号之间为形容词短语作补充说明；that 引导定语从句修饰 belief，并在从句中作 leave 的宾语；untouched 为宾补。",
+          "meaning": "一本陌生的书起初可能不如熟悉的类型有吸引力，却可能挑战某个被反复推荐的内容始终未曾触动的信念。",
+          "tip": "先去掉插入成分找主干，再回填比较信息。leave + 宾语 + 形容词 = 使……保持某种状态。"
+        },
+        {
+          "text": "It is the possibility of surrendering capacities we still value without noticing the exchange.",
+          "structure": "主干：It is the possibility。of 后为动名词短语；we still value 是省略关系代词 that 的定语从句，修饰 capacities；without noticing the exchange 表示伴随情形。",
+          "meaning": "它是这样一种可能：我们在没有察觉交换的情况下，放弃了仍然珍视的能力。",
+          "tip": "we still value 前补出 that，便能分清“能力”与“交换”分别属于哪一层。"
+        }
+      ],
+      "expressions": [
+        {
+          "phrase": "The question is not whether …, but how …",
+          "meaning": "问题不在于是否……，而在于如何……",
+          "example": "The question is not whether we should use technology, but how we can use it wisely."
+        },
+        {
+          "phrase": "come at the cost of …",
+          "meaning": "以……为代价",
+          "example": "Greater efficiency should not come at the cost of independent thinking."
+        },
+        {
+          "phrase": "strike a balance between … and …",
+          "meaning": "在……与……之间取得平衡",
+          "example": "We need to strike a balance between convenience and personal growth."
+        },
+        {
+          "phrase": "not only …, but also …",
+          "meaning": "不仅……，而且……（保持两侧结构平行）",
+          "example": "Education should develop not only practical skills, but also sound judgment."
+        }
+      ]
+    }
+  ]
+}
